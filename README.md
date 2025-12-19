@@ -3,7 +3,7 @@
 A Discord bot to manage Raid Points (DKP) for guild members, including raid attendance tracking, DKP management, and an auction system.
 
 ## 1. Invite Bot to Server
-1.  [Click to invite the bot](NOTYETSETUP)
+1.  [Click to invite the bot](https://discord.com/oauth2/authorize?client_id=1448790882387234837&permissions=8&integration_type=0&scope=bot)
 2.  Invite the bot to your server.
 
 ---
