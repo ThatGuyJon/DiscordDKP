@@ -1,4 +1,5 @@
 # DiscordDKP Bot
+[![Buy me a Coffee](https://github.com/user-attachments/assets/39b6b3e4-2a35-4e8a-9fb4-99da59ea615a)](https://buymeacoffee.com/jonathangauthier)
 
 A Discord bot to manage Raid Points (DKP) for guild members, including raid attendance tracking, DKP management, and an auction system.
 
